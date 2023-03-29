@@ -82,6 +82,14 @@ html, body {
     color: rgb(0,0,0);
 }
 
+.content-section li {
+    padding-bottom: .25em;
+}
+
+.no-bullet {
+    list-style-type: none;
+}
+
 .container {
     max-width: 900px;
     margin: 0 auto;
@@ -95,6 +103,9 @@ html, body {
     font-size: 2.5em;
 }
 
+.short-page {
+    margin-bottom: 20em;
+}
 
 
 /*  FOOTER  */
@@ -103,6 +114,7 @@ html, body {
     color: white;
     padding: .25em 0;
     margin-top: 4em;
+    
 }
 
 .main-footer-container {
