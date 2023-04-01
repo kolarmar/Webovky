@@ -83,7 +83,9 @@ html, body {
 }
 
 .content-section li {
-    padding-bottom: .25em;
+    margin-top: 1.5em;
+    padding-bottom: .5em;
+    border-bottom: 1px solid #585858;
 }
 
 .no-bullet {
